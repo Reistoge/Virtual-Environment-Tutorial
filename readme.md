@@ -1,5 +1,5 @@
 ## Como crear un entorno virtual en Python
-Un entorno virtual en Python es una herramienta que permite crear un espacio aislado para instalar paquetes y dependencias sin afectar al sistema global de Python.
+Un entorno virtual en Python es una herramienta que permite crear un espacio aislado para instalar paquetes y dependencias sin tener que afectar al sistema global de Python.
 es especialmente útil para gestionar proyectos con diferentes requisitos de versiones de paquetes.
 
 ### 1. Abre la terminal o consola de comandos.
@@ -15,11 +15,11 @@ los archivos mas importantes son:
 
 
 ### 3. Para *activar* el entorno virtual:
-    1. dirigete a la carpeta donde se encuentra el entorno virtual:
+  1. dirigete a la carpeta donde se encuentra el entorno virtual:
       ```bash
       cd nombre_del_entorno\Scripts 
       ```
-    2. ejecuta el script de activacion:
+  2. ejecuta el script de activacion:
       ```bash
         activate
         ```
